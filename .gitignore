@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+node_modules
+.cache-loader
+build
+.idea
+.eslintcache
+coverage
